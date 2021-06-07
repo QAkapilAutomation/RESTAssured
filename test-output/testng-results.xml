@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4551" started-at="2021-06-07T07:30:05Z" finished-at="2021-06-07T07:30:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4551" started-at="2021-06-07T07:30:05Z" finished-at="2021-06-07T07:30:09Z">
+      <class name="Practice">
+        <test-method status="PASS" signature="putrequest()[pri:0, instance:Practice@14ec4505]" name="putrequest" duration-ms="3458" started-at="2021-06-07T13:00:05Z" finished-at="2021-06-07T13:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putrequest -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Practice@14ec4505]" name="test3" duration-ms="452" started-at="2021-06-07T13:00:08Z" finished-at="2021-06-07T13:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="updateUser()[pri:0, instance:Practice@14ec4505]" name="updateUser" duration-ms="545" started-at="2021-06-07T13:00:09Z" finished-at="2021-06-07T13:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
